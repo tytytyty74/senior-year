@@ -1,0 +1,39 @@
+#header
+{
+    position: fixed;
+    width: 100%;
+    height: 10vw;
+    background-color:#031c34;
+}
+body
+{
+    background-color: #6680a1;
+    margin:0;
+}
+#expander
+{
+    width:10vw;
+    vertical-align: top;
+    padding-top:0.5vw;
+    padding-left: 2vw;
+}
+.line
+{
+    background-color:#ebebd9;
+    left:2vw;
+    width:6vw;
+    height:1vw;
+    margin-top:1.5vw;
+}
+#title
+{
+
+}
+#myHeader
+{
+    padding:0;
+    margin:0;
+    vertical-align: middle;
+    color: #ebebd9;
+    font-size:3vw;
+}
